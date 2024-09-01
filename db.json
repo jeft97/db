@@ -3,9 +3,9 @@
       {
          "id": 1,
          "image": {
-            "thumbnail": "33https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-thumbnail.jpg",
-            "mobile": "33https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-mobile.jpg",
-            "tablet": "33https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-tablet.jpg",
+            "thumbnail": "https://n76dilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-thumbnail.jpg",
+            "mobile": "https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-mobile.jpg",
+            "tablet": "https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-tablet.jpg",
             "desktop": "https://ndilkemnvrtymwwappnx.supabase.co/storage/v1/object/public/fake-api/image-waffle-desktop.jpg"
          },
          "name": "Waffle with Berries",
